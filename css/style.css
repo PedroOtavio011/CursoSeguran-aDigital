@@ -1,0 +1,26 @@
+:root{
+    --azulPrincipal: #2563eb; /* Cabeçalho e botões */
+    --azulHover: #1d4ed8; /* Azul mais escuro para hover */
+    --azulClaro: #eff6ff; /* Fundo claro para seções */
+    --cinzaEscuro: #1f2937; /* Rodapé */
+    --texto: #333333;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: var(--azulPrincipal);
+    color: white;
+    padding: 40px;
+}
+
+footer{
+    background-color: var(--cinzaEscuro);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
