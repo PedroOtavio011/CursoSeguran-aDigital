@@ -3,147 +3,254 @@
   --azulHover: #1d4ed8; /* Azul mais escuro para hover */
   --azulClaro: #eff6ff; /* Fundo claro para seções */
   --cinzaEscuro: #1f2937; /* Rodapé */
-    --texto: #333333;
+  --texto: #333333;
 }
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
-    background-color: var(--azulPrincipal);
-    color: white;
-    padding: 10px;
+  background-color: var(--azulPrincipal);
+  color: white;
+  padding: 10px;
 }
 
 header h1 {
-    font-size: 2.5em;
-    margin-bottom: 10px;
-    text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 header h2 {
-    font-size: 1.8em;
-    margin-bottom: 20px;
-    text-align: center;
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 header p {
-    font-size: 1.5em;
+  font-size: 1.5em;
 }
 
 footer {
-    background-color: var(--cinzaEscuro);
-    color: white;
-    padding: 20px;
-    text-align: center;
+  background-color: var(--cinzaEscuro);
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
 
 main {
-    background-color: var(--azulClaro);
-    padding: 20px;
+  background-color: var(--azulClaro);
+  padding: 20px;
 }
 .container {
-    max-width: 1200px;
-    margin: 0 auto;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .container h1 {
-    margin: 20px 0;
-    font-size: 2.8em;
-    text-align: center;
+  margin: 20px 0;
+  font-size: 2.8em;
+  text-align: center;
 }
 
 .container p {
-    font-size: 1.9em;
-    line-height: 1.6;
-    margin-bottom: 20px;
-    text-align: justify;
+  font-size: 1.9em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  text-align: justify;
 }
 .container img {
-    display: flex;
-    justify-content: center;
-    margin: 0 auto;
-    max-width: 90%;
-    height: auto;
-    border-radius: 80px;
-    padding: 20px;
-    margin: 0 auto;
-    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.11);
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 90%;
+  height: auto;
+  border-radius: 80px;
+  padding: 20px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.11);
 }
 
 button {
-    background-color: var(--azulPrincipal);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    font-size: 1.2em;
-    cursor: pointer;
-    border-radius: 10px;
-    transition: background-color 0.3s ease;
-    display: flex;
-    justify-content: center;
-    margin: 20px auto;
-    max-height: 200px;
-    max-width: 300px;
-    height: 70px;
-    width: 100%;
-    align-items: center;
+  background-color: var(--azulPrincipal);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  max-height: 200px;
+  max-width: 300px;
+  height: 70px;
+  width: 100%;
+  align-items: center;
 }
 
 button:hover {
-    background-color: var(--azulHover);
+  background-color: var(--azulHover);
 }
 
 .conteudo {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .conteudo h1 {
-    font-size: 2.5em;
-    margin-bottom: 40px;
-    text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 40px;
+  text-align: center;
 }
 
 .cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 40px;
-    margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  margin: 20px 0;
 }
 
 .card {
-    text-align: center;
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    width: 300px;
-    transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 300px;
+  transition:
+    transform 0.3s ease,
+    background-color 0.3s ease,
+    box-shadow 0.3s ease;
 }
 
-.card p{
-    font-size: 1.2em;
-    color: var(--texto);
+.card p {
+  font-size: 1.2em;
+  color: var(--texto);
 }
 
 .card:hover {
-    transform: translateY(-10px);
-    background-color: var(--azulClaro);
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
-    cursor: pointer;
+  transform: translateY(-10px);
+  background-color: var(--azulClaro);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
 }
 
 .card img {
-    margin-top: 60px;
-    max-width: 90%;
-    height: auto;
-    width: 100px;
-    height: 100px;
-    margin-bottom: 20px;
+  margin-top: 60px;
+  max-width: 90%;
+  height: auto;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
 }
+
+.imagensConteudo {
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+  margin-top: 20px;
+  padding: 40px;
+}
+
+.imagensConteudo img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 40px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.288);
+}
+
+.conteudoDiv {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 50px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--azulClaro);
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.conteudoDiv h2 {
+  color: var(--azulPrincipal);
+  font-size: 2.2rem;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  border-bottom: 2px solid #e8f0fe;
+  padding-bottom: 10px;
+}
+
+.conteudoDiv h2:first-of-type {
+  margin-top: 0;
+}
+
+.conteudoDiv p {
+  font-size: 1.3rem;
+  line-height: 1.8;
+  color: var(--texto);
+  margin-bottom: 25px;
+}
+
+.conteudoDiv h2:last-of-type {
+  color: #d93025;
+  margin-top: 50px;
+}
+.protejaSeuDinheiro {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 30px;
+  margin: 50px auto;
+  max-width: 1100px;
+  width: 95%;
+}
+
+.protejaSeuDinheiro div {
+  flex: 1;
+  color: white;
+  padding: 35px;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.bancoVerde {
+  background-color: #2e7d32;
+}
+
+.bancoVermelho {
+  background-color: #c62828;
+}
+
+.protejaSeuDinheiro ol {
+  margin-top: 20px;
+  padding-left: 25px;
+}
+
+.protejaSeuDinheiro li {
+  font-size: 1.15em;
+  line-height: 1.5;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.botoes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  width: 100%;
+}
+
+.botoes a{
+  text-decoration: none;
+  color: white;;
+}
+
+
