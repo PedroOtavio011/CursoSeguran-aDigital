@@ -253,4 +253,55 @@ button:hover {
   color: white;;
 }
 
+/* Torna o card da questão robusto e centralizado */
+.questao-card-grande {
+    background-color: #ffffff;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 30px;
+    width: 100%;
+    max-width: 800px; 
+    box-sizing: border-box;
+}
+
+
+.btn-alternativa-grande {
+    display: block;
+    width: 100%;
+    padding: 15px 20px;
+    margin: 10px 0;
+    font-size: 14px;
+    text-align: left;
+    background-color: var(--azulHover);
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+/* Estilo para a caixa de resultado que aparece no final */
+.quiz-resultado-final {
+    background-color: #f4f7f6;
+    border: 3px dashed #cbd5e1;
+    border-radius: 12px;
+    padding: 30px;
+    text-align: center;
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+/* Botões de ação do final do quiz */
+.btn-final-quiz {
+    padding: 15px 40px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.btn-avancar { background-color: #2ecc71; color: white; }
+.btn-reiniciar { background-color: #e74c3c; color: white; }
 

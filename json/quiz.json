@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "categoria": "links",
+    "pontos": 20,
+    "resposta_correta": "C",
+    "pergunta": "Você recebeu uma mensagem no WhatsApp dizendo que ganhou um cupom de R$ 500 de um grande supermercado. Para resgatar, pede para clicar em um link. O que você faz?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Clico na hora para não perder a oportunidade.", "correta": false, "feedback": "Cuidado! Golpistas usam prêmios falsos para chamar nossa atenção. Nunca clique em links de promoções milagrosas." },
+      { "opcao": "B", "texto": "Compartilho com meus amigos primeiro e depois clico.", "correta": false, "feedback": "Atenção! Ao compartilhar, você pode colocar seus amigos em risco. O melhor é apagar a mensagem." },
+      { "opcao": "C", "texto": "Não clico e apago a mensagem, pois sei que grandes empresas não dão prêmios assim por WhatsApp.", "correta": true, "feedback": "Perfeito! Você foi muito prudente. Empresas sérias não distribuem dinheiro ou cupons dessa forma." },
+      { "opcao": "D", "texto": "Respondo a mensagem perguntando se é verdade.", "correta": false, "feedback": "Evite responder! Se for um número de golpista, eles sabendo que seu número está ativo, mandarão mais mensagens." }
+    ]
+  },
+  {
+    "id": 2,
+    "categoria": "banco",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "O telefone toca e a pessoa diz que é do seu banco, avisando que seu cartão foi clonado. Ela pede para você digitar sua senha no teclado do telefone. Qual a atitude correta?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Digito a senha rapidamente para bloquear o cartão.", "correta": false, "feedback": "Atenção! O banco nunca pede para você digitar ou falar sua senha por telefone, em hipótese alguma." },
+      { "opcao": "B", "texto": "Desligo o telefone na hora, espero um minuto e ligo para o número que está atrás do meu cartão físico.", "correta": true, "feedback": "Excelente! Desligar e ligar para o número oficial é a melhor forma de se proteger contra falsas ligações." },
+      { "opcao": "C", "texto": "Peço para a pessoa me transferir para o gerente da minha agência.", "correta": false, "feedback": "Perigoso! Se a ligação for um golpe, eles vão fingir que transferiram, mas a linha continuará com o golpista." },
+      { "opcao": "D", "texto": "Passo apenas os dados do meu documento para confirmar.", "correta": false, "feedback": "Cuidado! Não passe nenhum dado pessoal. Golpistas usam seus documentos para abrir contas no seu nome." }
+    ]
+  },
+  {
+    "id": 3,
+    "categoria": "engenharia_social",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Um número desconhecido te manda mensagem dizendo: 'Oi vó, mudei de número, salva aí!'. Logo depois, pede um dinheiro emprestado para pagar uma conta urgente. O que fazer?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Faço o Pix na hora para ajudar meu neto querido.", "correta": false, "feedback": "O seu coração é enorme, mas os golpistas usam o amor pela família para nos enganar. Pare e respire!" },
+      { "opcao": "B", "texto": "Não respondo e ligo imediatamente para o número antigo do meu neto para confirmar a história.", "correta": true, "feedback": "Incrível! Conferir no número antigo ou ligar para outro parente que possa confirmar é o escudo perfeito." },
+      { "opcao": "C", "texto": "Digo que não tenho dinheiro, mas passo o contato do meu filho para ajudar.", "correta": false, "feedback": "Evite passar contatos! Isso dá mais uma vítima para os golpistas tentarem engenhar." },
+      { "opcao": "D", "texto": "Mando uma mensagem brigando com ele por ter mudado de número.", "correta": false, "feedback": "Não gaste sua energia. Se for um golpe, eles não vão se importar com a bronca. O melhor é ignorar." }
+    ]
+  },
+  {
+    "id": 4,
+    "categoria": "redes_sociais",
+    "pontos": 20,
+    "resposta_correta": "D",
+    "pergunta": "Qual das seguintes opções é considerada a senha mais segura para proteger o seu Facebook ou e-mail?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Sua data de nascimento (ex: 15031955).", "correta": false, "feedback": "Muito fácil! Datas de nascimento são as primeiras coisas que os golpistas tentam adivinhar." },
+      { "opcao": "B", "texto": "O nome do seu neto preferido seguido de 123.", "correta": false, "feedback": "Fraca! Nomes de familiares e sequências numéricas são fáceis de serem descobertos na internet." },
+      { "opcao": "C", "texto": "Uma palavra simples escrita ao contrário.", "correta": false, "feedback": "Computadores modernos conseguem adivinhar palavras ao contrário em poucos segundos." },
+      { "opcao": "D", "texto": "Uma mistura de letras, números e um símbolo (ex: BoloDeFubá#26).", "correta": true, "feedback": "Parabéns! Misturar letras maiúsculas, minúsculas, números e símbolos cria uma tranca fortíssima." }
+    ]
+  },
+  {
+    "id": 5,
+    "categoria": "banco",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Uma pessoa liga dizendo ser do banco e avisa que um motoboy vai até a sua casa recolher seu cartão que foi 'cancelado por segurança'. O que você faz?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Entrego o cartão, mas curto ele ao meio para garantir.", "correta": false, "feedback": "Cuidado! Mesmo cortado, o chip do cartão pode ser usado por criminosos para fazer compras." },
+      { "opcao": "B", "texto": "Não entrego nada e desligo o telefone. O banco nunca manda funcionários buscarem cartões.", "correta": true, "feedback": "Perfeito! Bancos jamais enviam pessoas ou motoboys para recolher cartões na casa dos clientes." },
+      { "opcao": "C", "texto": "Peço para o motoboy me mostrar o crachá do banco antes de entregar.", "correta": false, "feedback": "Não confie! Golpistas criam crachás falsos muito parecidos com os reais para enganar as pessoas." },
+      { "opcao": "D", "texto": "Entrego o cartão, mas vou junto com ele até a agência.", "correta": false, "feedback": "Perigoso! Nunca saia de casa ou entre no veículo de desconhecidos. Sua segurança física vem em primeiro lugar." }
+    ]
+  },
+  {
+    "id": 6,
+    "categoria": "links",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Ao olhar a barra de endereços de um site de compras, você nota que o nome está escrito 'www.lojas-amiericanas.net' (com um 'i' a mais). O que isso significa?",
+    "alternativas": [
+      { "opcao": "A", "texto": "É apenas um erro de digitação do próprio site oficial.", "correta": false, "feedback": "Não se engane! Grandes lojas não erram o próprio nome. Isso é um sinal clássico de site imitador (falso)." },
+      { "opcao": "B", "texto": "É um site falso tentando se passar pelo verdadeiro para roubar meus dados.", "correta": true, "feedback": "Excelente observação! Letras a mais ou trocadas servem para nos confundir. Você está muito atento!" },
+      { "opcao": "C", "texto": "Significa que o site está em promoção.", "correta": false, "feedback": "Promoções não mudam o endereço oficial da loja. Fique de olho!" },
+      { "opcao": "D", "texto": "É uma nova versão do site que atualizou.", "correta": false, "feedback": "As atualizações mantêm o nome oficial. Se mudar uma letra, desconfie na hora." }
+    ]
+  },
+  {
+    "id": 7,
+    "categoria": "engenharia_social",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Você recebe um SMS dizendo: 'Seu CPF está irregular na Receita Federal. Regularize agora clicando aqui'. O que você deve fazer?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Clico no link imediatamente com medo de ter o nome sujo.", "correta": false, "feedback": "O medo é o que o golpista quer! Mensagens urgentes sobre documentos quase sempre são golpes." },
+      { "opcao": "B", "texto": "Ignoro a mensagem e, se ficar na dúvida, peço para um familiar me ajudar a olhar no site oficial do governo.", "correta": true, "feedback": "Isso mesmo! Verificar em canais oficiais com calma é a melhor atitude para não cair em armadilhas." },
+      { "opcao": "C", "texto": "Respondo o SMS enviando a foto do meu documento.", "correta": false, "feedback": "Nunca faça isso! Enviar fotos de documentos por mensagem facilita a ação de estelionatários." },
+      { "opcao": "D", "texto": "Clico no link apenas para ver o que aconteceu.", "correta": false, "feedback": "Mesmo sem digitar nada, clicar em links desconhecidos pode baixar vírus no seu celular." }
+    ]
+  },
+  {
+    "id": 8,
+    "categoria": "redes_sociais",
+    "pontos": 20,
+    "resposta_correta": "C",
+    "pergunta": "Onde é o lugar mais seguro para você guardar as suas senhas anotadas?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Em um bloco de notas aberto no próprio celular.", "correta": false, "feedback": "Arriscado! Se o seu celular for perdido ou roubado, quem o encontrar terá acesso a tudo de uma vez." },
+      { "opcao": "B", "texto": "Em um papel colado atrás da capinha do celular.", "correta": false, "feedback": "Não faça isso! É o primeiro lugar onde as pessoas olham se pegarem o seu telefone." },
+      { "opcao": "C", "texto": "Em um caderninho físico em casa, bem guardado na sua gaveta.", "correta": true, "feedback": "Muito bem! O mundo digital não alcança o papel físico na sua casa. É uma ótima tranca analógica." },
+      { "opcao": "D", "texto": "Mandar em um aplicativo de mensagens para você mesmo.", "correta": false, "feedback": "Se seu aplicativo for clonado ou invadido, suas senhas guardadas na conversa serão vistas." }
+    ]
+  },
+  {
+    "id": 9,
+    "categoria": "banco",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Você está usando o aplicativo do banco e aparece um aviso dizendo: 'Para sua segurança, precisamos que você transfira seu dinheiro para uma conta provisória'. O que fazer?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Faço a transferência, pois o aplicativo pediu por segurança.", "correta": false, "feedback": "Atenção! Bancos nunca pedem para você mover seu dinheiro para 'contas de segurança' ou contas de terceiros." },
+      { "opcao": "B", "texto": "Fecho o aplicativo e ligo na minha agência. Pode ser um golpe de vírus no celular.", "correta": true, "feedback": "Corretíssimo! Existem vírus que criam telas falsas em cima do aplicativo real. Chamar o banco resolve." },
+      { "opcao": "C", "texto": "Apago o aplicativo do celular e vou direto para outro banco.", "correta": false, "feedback": "Mudar de banco não resolve se o problem for um vírus no seu aparelho. O ideal é limpar o telefone." },
+      { "opcao": "D", "texto": "Peço para um vizinho fazer a transferência para mim.", "correta": false, "feedback": "Não envolva outras pessoas em movimentações financeiras suspeitas. Vá direto à sua agência." }
+    ]
+  },
+  {
+    "id": 10,
+    "categoria": "engenharia_social",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Uma pessoa liga dizendo que você ganhou um sorteio da previdência e tem um dinheiro esquecido para receber, mas precisa pagar uma taxa de R$ 50 para liberar. O que você faz?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Pago os R$ 50 felizes, pois o prêmio é muito maior.", "correta": false, "feedback": "A armadilha está aí! Para receber prêmios ou dinheiro do governo, você nunca precisa pagar nada antes." },
+      { "opcao": "B", "texto": "Desligo o telefone. Se eu ganhei algo, não preciso pagar para receber.", "correta": true, "feedback": "Certíssimo! Pedir dinheiro adiantado para liberar prêmios é o sinal mais claro de um golpe." },
+      { "opcao": "C", "texto": "Peço para descontarem os R$ 50 do valor total do prêmio.", "correta": false, "feedback": "Eles não vão aceitar isso porque o prêmio não existe; eles só querem arrancar os seus R$ 50." },
+      { "opcao": "D", "texto": "Passo os dados da minha conta para eles depositarem direto.", "correta": false, "feedback": "Não passe dados bancários para quem te ligou oferecendo vantagens financeiras surpresa." }
+    ]
+  },
+  {
+    "id": 11,
+    "categoria": "links",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Como você pode identificar se o site que você abriu para ver seu extrato bancário possui uma conexão protegida?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Se a página for bem colorida e cheia de fotos.", "correta": false, "feedback": "A beleza do site não garante segurança. Golpistas fazem páginas lindas e idênticas às reais." },
+      { "opcao": "B", "texto": "Se houver um desenho de um cadeado fechado ao lado do endereço do site.", "correta": true, "feedback": "Ótimo! O cadeado fechado indica que as informações que você digita viajam de forma protegida." },
+      { "opcao": "C", "texto": "Se o site abrir muito rápido no celular.", "correta": false, "feedback": "A velocidade do site depende da sua internet, e não dos sistemas de segurança dele." },
+      { "opcao": "D", "texto": "Se tiver o botão de compartilhar no WhatsApp.", "correta": false, "feedback": "Botões de compartilhar existem em qualquer site, inclusive nos falsos. Fique de olho no cadeado!" }
+    ]
+  },
+  {
+    "id": 12,
+    "categoria": "redes_sociais",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Um amigo antigo da igreja te manda uma mensagem no Instagram vendendo uma geladeira seminova por um preço muito barato e pede um Pix rápido. Qual o primeiro passo?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Faço o Pix correndo para garantir o desconto antes de todo mundo.", "correta": false, "feedback": "Espere! Preços baixos demais costumam ser iscas criadas por invasores que roubaram o perfil do seu amigo." },
+      { "opcao": "B", "texto": "Ligo para esse amigo (por telefone normal ou ligação de voz) para confirmar se é ele mesmo vendendo.", "correta": true, "feedback": "Perfeito! Fazer uma ligação direta por fora da rede social desmascara o golpe na hora." },
+      { "opcao": "C", "texto": "Comento na foto dele perguntando se ele aceita parcelar.", "correta": false, "feedback": "Se o perfil foi roubado, o golpista vai responder dizendo que aceita tudo, só para pegar seu dinheiro." },
+      { "opcao": "D", "texto": "Ignoro a mensagem porque não preciso de uma geladeira.", "correta": false, "feedback": "Mesmo que não precise, o ideal é tentar avisar seu amigo por outro canal que o perfil dele foi invadido." }
+    ]
+  },
+  {
+    "id": 13,
+    "categoria": "banco",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Para que serve a configuração de 'Limite Noturno' que os aplicativos de banco oferecem?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Para o aplicativo gastar menos bateria do celular à noite.", "correta": false, "feedback": "Não tem a ver com bateria. É uma ferramenta de segurança para o seu dinheiro!" },
+      { "opcao": "B", "texto": "Para diminuir o valor máximo que pode ser transferido da sua conta durante a noite.", "correta": true, "feedback": "Isso aí! O limite noturno impede que grandes quantias saiam da sua conta enquanto você está descansando." },
+      { "opcao": "C", "texto": "Para bloquear o aplicativo e não deixar você ver o saldo de madrugada.", "correta": false, "feedback": "Você ainda consegue ver seu saldo normalmente, o limite serve apenas para saídas de dinheiro." },
+      { "opcao": "D", "texto": "Para avisar o horário de ir dormir.", "correta": false, "feedback": "O banco cuida do seu dinheiro, o despertador cuida do seu sono. Ative o limite para sua proteção!" }
+    ]
+  },
+  {
+    "id": 14,
+    "categoria": "engenharia_social",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Alguém te liga dizendo que é da Polícia e afirma que um parente seu está preso e precisa de uma fiança em dinheiro agora. O que fazer?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Fico desesperado e sigo todas as instruções que mandarem.", "correta": false, "feedback": "Calma! Os golpistas usam o desespero e o barulho para nos paralisar. Respire fundo." },
+      { "opcao": "B", "texto": "Desligo na hora e ligo diretamente para o parente citado ou para os pais dele para ver onde ele está.", "correta": true, "feedback": "Excelente! Manter a calma, desligar e checar a informação com a família destrói o golpe do falso sequestro." },
+      { "opcao": "C", "texto": "Vou até o banco mais próximo chorando pedir ajuda.", "correta": false, "feedback": "O banco não poderá checar se seu parente está bem. Desligue o telefone e fale com a família primeiro." },
+      { "opcao": "D", "texto": "Ofereço um valor menor para ver se eles aceitam soltar o parente.", "correta": false, "feedback": "Negociar só mostra para o criminoso que você acreditou na mentira. O caminho correto é desligar." }
+    ]
+  },
+  {
+    "id": 15,
+    "categoria": "redes_sociais",
+    "pontos": 20,
+    "resposta_correta": "C",
+    "pergunta": "Você usou o computador da associação de moradores ou de uma lan house para ver seu Facebook. O que você deve fazer antes de ir embora?",
+    "alternativas": [
+      { "opcao": "A", "texto": "Apenas fechar a janela do navegador clicando no 'X'.", "correta": false, "feedback": "Atenção! Só fechar no 'X' não desloga sua conta. A próxima pessoa que abrir o computador verá seu perfil." },
+      { "opcao": "B", "texto": "Desligar o monitor do computador no botão.", "correta": false, "feedback": "Desligar a tela deixa o computador ligado por dentro. Suas informações continuam expostas." },
+      { "opcao": "C", "texto": "Clicar na sua foto de perfil e escolher a opção 'Sair' ou 'Logoff' para fechar sua conta com segurança.", "correta": true, "feedback": "Perfeito! Clicar em 'Sair' garante que a sua chave foi recolhida e ninguém mexerá na sua página." },
+      { "opcao": "D", "texto": "Não preciso fazer nada, o computador esquece sozinho.", "correta": false, "feedback": "Os computadores guardam os acessos para facilitar. Você precisa dar o comando de 'Sair' manualmente." }
+    ]
+  }
+]
