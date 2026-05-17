@@ -48,8 +48,8 @@ As questões e módulos abordam situações reais de engenharia social e seguran
 │
 ├── 📁 js/
 │   ├── 📄 quiz.js             # Lógica do quiz de treino (5 questões)
-│   └── 📄 avaliacao.js        # Lógica da avaliação final (10 questões)
+│   └── 📄 avaliacao.js        # Lógica da avaliação final (5 questões)
 │
 └── 📁 json/
     ├── 📄 quiz.json           # Banco de dados do treino
-    └── 📄 avaliacao_final.json # Banco de dados da avaliação
+    └── 📄 avaliacao.json # Banco de dados da avaliação
