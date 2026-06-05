@@ -6,10 +6,30 @@
     "resposta_correta": "C",
     "pergunta": "Se você receber uma mensagem urgente dizendo que sua aposentadoria será suspensa caso não clique em um link imediatamente, qual deve ser sua reação?",
     "alternativas": [
-      { "opcao": "A", "texto": "Clicar logo para resolver o problema rapidamente.", "correta": false, "feedback": "A urgência é a maior arma dos golpistas. Respire fundo e não clique." },
-      { "opcao": "B", "texto": "Mandar a mensagem para todos os seus amigos verem se é verdade.", "correta": false, "feedback": "Ao compartilhar, você pode espalhar o golpe. É melhor investigar sozinho ou pedir ajuda direta." },
-      { "opcao": "C", "texto": "Manter a calma, ignorar o link e procurar uma agência do INSS ou o site oficial do governo.", "correta": true, "feedback": "Perfeito! Ir direto aos canais oficiais é a única forma segura de checar informações sobre seus benefícios." },
-      { "opcao": "D", "texto": "Responder a mensagem enviando seus dados para que eles verifiquem.", "correta": false, "feedback": "Nunca envie dados em resposta a mensagens suspeitas. Isso é um prato cheio para criminosos." }
+      {
+        "opcao": "A",
+        "texto": "Clicar logo para resolver o problema rapidamente.",
+        "correta": false,
+        "feedback": "A urgência é a maior arma dos golpistas. Respire fundo e não clique."
+      },
+      {
+        "opcao": "B",
+        "texto": "Mandar a mensagem para todos os seus amigos verem se é verdade.",
+        "correta": false,
+        "feedback": "Ao compartilhar, você pode espalhar o golpe. É melhor investigar sozinho ou pedir ajuda direta."
+      },
+      {
+        "opcao": "C",
+        "texto": "Manter a calma, ignorar o link e procurar uma agência do INSS ou o site oficial do governo.",
+        "correta": true,
+        "feedback": "Perfeito! Ir direto aos canais oficiais é a única forma segura de checar informações sobre seus benefícios."
+      },
+      {
+        "opcao": "D",
+        "texto": "Responder a mensagem enviando seus dados para que eles verifiquem.",
+        "correta": false,
+        "feedback": "Nunca envie dados em resposta a mensagens suspeitas. Isso é um prato cheio para criminosos."
+      }
     ]
   },
   {
@@ -19,10 +39,30 @@
     "resposta_correta": "B",
     "pergunta": "Um funcionário do banco liga para a sua casa e diz que, para atualizar o seu aplicativo, você precisa passar a sua senha secreta para ele. O que você faz?",
     "alternativas": [
-      { "opcao": "A", "texto": "Passo a senha, afinal, ele trabalha no banco e precisa dela para a atualização.", "correta": false, "feedback": "Cuidado! Funcionários de banco nunca, sob nenhuma circunstância, pedem a sua senha por telefone." },
-      { "opcao": "B", "texto": "Não informo nada, desligo o telefone e procuro o meu gerente ou a minha agência.", "correta": true, "feedback": "Excelente! Guardar a sua senha como um segredo absoluto é a sua melhor defesa no mundo digital." },
-      { "opcao": "C", "texto": "Digo apenas os quatro primeiros números da senha para ajudar.", "correta": false, "feedback": "Nenhum pedaço da sua senha deve ser compartilhado. Os golpistas podem descobrir o resto depois." },
-      { "opcao": "D", "texto": "Peço para ele ligar mais tarde quando meu filho estiver em casa.", "correta": false, "feedback": "O melhor é nem dar corda. Desligue imediatamente, pois bancos legítimos não fazem esse tipo de pedido." }
+      {
+        "opcao": "A",
+        "texto": "Passo a senha, afinal, ele trabalha no banco e precisa dela para a atualização.",
+        "correta": false,
+        "feedback": "Cuidado! Funcionários de banco nunca, sob nenhuma circunstância, pedem a sua senha por telefone."
+      },
+      {
+        "opcao": "B",
+        "texto": "Não informo nada, desligo o telefone e procuro o meu gerente ou a minha agência.",
+        "correta": true,
+        "feedback": "Excelente! Guardar a sua senha como um segredo absoluto é a sua melhor defesa no mundo digital."
+      },
+      {
+        "opcao": "C",
+        "texto": "Digo apenas os quatro primeiros números da senha para ajudar.",
+        "correta": false,
+        "feedback": "Nenhum pedaço da sua senha deve ser compartilhado. Os golpistas podem descobrir o resto depois."
+      },
+      {
+        "opcao": "D",
+        "texto": "Peço para ele ligar mais tarde quando meu filho estiver em casa.",
+        "correta": false,
+        "feedback": "O melhor é nem dar corda. Desligue imediatamente, pois bancos legítimos não fazem esse tipo de pedido."
+      }
     ]
   },
   {
@@ -32,10 +72,30 @@
     "resposta_correta": "D",
     "pergunta": "Você recebe uma mensagem de uma pessoa simpática se passando por um atendente de saúde, pedindo para você confirmar um código numérico que chegou por SMS no seu celular. O que fazer?",
     "alternativas": [
-      { "opcao": "A", "texto": "Passo o código, pois pode ser o agendamento de uma consulta importante.", "correta": false, "feedback": "Atenção! Códigos enviados por SMS geralmente servem para ativar o seu WhatsApp no celular do golpista." },
-      { "opcao": "B", "texto": "Tiro um print da tela e posto no meu Facebook.", "correta": false, "feedback": "Postar publicamente pode expor ainda mais as suas informações. Evite fazer isso." },
-      { "opcao": "C", "texto": "Passo o código, mas peço para a pessoa confirmar o nome do meu médico antes.", "correta": false, "feedback": "Mesmo que eles saibam alguns dados, nunca entregue códigos recebidos por SMS para ninguém." },
-      { "opcao": "D", "texto": "Não passo código nenhum. Sei que códigos enviados ao meu celular são de uso pessoal e secreto.", "correta": true, "feedback": "Sensacional! Esses códigos de SMS funcionam como uma chave de segurança. Nunca devem ser compartilhados." }
+      {
+        "opcao": "A",
+        "texto": "Passo o código, pois pode ser o agendamento de uma consulta importante.",
+        "correta": false,
+        "feedback": "Atenção! Códigos enviados por SMS geralmente servem para ativar o seu WhatsApp no celular do golpista."
+      },
+      {
+        "opcao": "B",
+        "texto": "Tiro um print da tela e posto no meu Facebook.",
+        "correta": false,
+        "feedback": "Postar publicamente pode expor ainda mais as suas informações. Evite fazer isso."
+      },
+      {
+        "opcao": "C",
+        "texto": "Passo o código, mas peço para a pessoa confirmar o nome do meu médico antes.",
+        "correta": false,
+        "feedback": "Mesmo que eles saibam alguns dados, nunca entregue códigos recebidos por SMS para ninguém."
+      },
+      {
+        "opcao": "D",
+        "texto": "Não passo código nenhum. Sei que códigos enviados ao meu celular são de uso pessoal e secreto.",
+        "correta": true,
+        "feedback": "Sensacional! Esses códigos de SMS funcionam como uma chave de segurança. Nunca devem ser compartilhados."
+      }
     ]
   },
   {
@@ -45,10 +105,30 @@
     "resposta_correta": "A",
     "pergunta": "Ao entrar em um site para emitir a segunda via de uma conta de luz, qual detalhe na barra de endereço indica que você está em um ambiente mais seguro?",
     "alternativas": [
-      { "opcao": "A", "texto": "A presença de um cadeado fechado ao lado do nome do site.", "correta": true, "feedback": "Muito bem! O cadeado indica que a sua conexão com aquela página está criptografada e protegida." },
-      { "opcao": "B", "texto": "A palavra 'PROMOÇÃO' escrita em letras grandes.", "correta": false, "feedback": "Anúncios de promoção não têm relação com a segurança técnica da página. Fique atento!" },
-      { "opcao": "C", "texto": "O site ter muitas fotos coloridas dos atendentes.", "correta": false, "feedback": "Sites falsos podem ser visualmente idênticos aos verdadeiros. O cadeado e o endereço correto são o que importam." },
-      { "opcao": "D", "texto": "O endereço terminar com muitos números misturados.", "correta": false, "feedback": "Endereços oficiais costumam ser limpos e curtos. Muitos números costumam indicar páginas falsas." }
+      {
+        "opcao": "A",
+        "texto": "A presença de um cadeado fechado ao lado do nome do site.",
+        "correta": true,
+        "feedback": "Muito bem! O cadeado indica que a sua conexão com aquela página está criptografada e protegida."
+      },
+      {
+        "opcao": "B",
+        "texto": "A palavra 'PROMOÇÃO' escrita em letras grandes.",
+        "correta": false,
+        "feedback": "Anúncios de promoção não têm relação com a segurança técnica da página. Fique atento!"
+      },
+      {
+        "opcao": "C",
+        "texto": "O site ter muitas fotos coloridas dos atendentes.",
+        "correta": false,
+        "feedback": "Sites falsos podem ser visualmente idênticos aos verdadeiros. O cadeado e o endereço correto são o que importam."
+      },
+      {
+        "opcao": "D",
+        "texto": "O endereço terminar com muitos números misturados.",
+        "correta": false,
+        "feedback": "Endereços oficiais costumam ser limpos e curtos. Muitos números costumam indicar páginas falsas."
+      }
     ]
   },
   {
@@ -58,10 +138,30 @@
     "resposta_correta": "B",
     "pergunta": "Você quer criar uma senha para proteger o aplicativo do seu banco. Qual das opções abaixo segue as recomendações de segurança?",
     "alternativas": [
-      { "opcao": "A", "texto": "Usar o ano em que você se casou ou o ano atual (ex: 2026).", "correta": false, "feedback": "Anos marcantes ou o ano vigente são muito fáceis de serem testados por sistemas de invasão." },
-      { "opcao": "B", "texto": "Criar uma frase curta misturando letras maiúsculas, números e um ponto (ex: Cafezinho#10).", "correta": true, "feedback": "Perfeito! Essa mistura mágica torna a senha extremamente difícil de ser adivinhada por computadores maliciosos." },
-      { "opcao": "C", "texto": "Usar apenas os números do seu telefone celular.", "correta": false, "feedback": "Como o seu telefone é público para conhecidos, usar ele como senha deixa sua conta vulnerável." },
-      { "opcao": "D", "texto": "Usar a mesma senha simples que você já usa há 10 anos em outros sites.", "correta": false, "feedback": "Se um site antigo que você usava for invadido, os golpistas tentarão essa mesma senha em todos os seus outros perfis." }
+      {
+        "opcao": "A",
+        "texto": "Usar o ano em que você se casou ou o ano atual (ex: 2026).",
+        "correta": false,
+        "feedback": "Anos marcantes ou o ano vigente são muito fáceis de serem testados por sistemas de invasão."
+      },
+      {
+        "opcao": "B",
+        "texto": "Criar uma frase curta misturando letras maiúsculas, números e um ponto (ex: Cafezinho#10).",
+        "correta": true,
+        "feedback": "Perfeito! Essa mistura mágica torna a senha extremamente difícil de ser adivinhada por computadores maliciosos."
+      },
+      {
+        "opcao": "C",
+        "texto": "Usar apenas os números do seu telefone celular.",
+        "correta": false,
+        "feedback": "Como o seu telefone é público para conhecidos, usar ele como senha deixa sua conta vulnerável."
+      },
+      {
+        "opcao": "D",
+        "texto": "Usar a mesma senha simples que você já usa há 10 anos em outros sites.",
+        "correta": false,
+        "feedback": "Se um site antigo que você usava for invadido, os golpistas tentarão essa mesma senha em todos os seus outros perfis."
+      }
     ]
   },
   {
@@ -71,10 +171,30 @@
     "resposta_correta": "C",
     "pergunta": "Você precisa ir ao caixa eletrônico do banco e uma pessoa desconhecida, muito bem vestida, oferece ajuda para fazer uma operação para você. Qual é a melhor conduta?",
     "alternativas": [
-      { "opcao": "A", "texto": "Aceitar a ajuda, já que a pessoa parece ser educada e confiável.", "correta": false, "feedback": "Perigoso! Golpistas no mundo físico costumam usar boa aparência e simpatia para trocar cartões ou espiar senhas." },
-      { "opcao": "B", "texto": "Entregar o cartão para ela e ficar olhando de longe.", "correta": false, "feedback": "Nunca perca seu cartão de vista e jamais o entregue na mão de estranhos." },
-      { "opcao": "C", "texto": "Recusar educadamente e pedir ajuda apenas para um funcionário oficial do banco, que esteja usando o uniforme e crachá dentro da agência.", "correta": true, "feedback": "Exatamente! No banco, o suporte deve vir exclusivamente de profissionais identificados que trabalham lá." },
-      { "opcao": "D", "texto": "Deixar a pessoa mexer na máquina enquanto você digita a senha.", "correta": false, "feedback": "Mesmo digitando a senha sozinho, a pessoa pode ver o que você digitou ou manipular o valor da operação na tela." }
+      {
+        "opcao": "A",
+        "texto": "Aceitar a ajuda, já que a pessoa parece ser educada e confiável.",
+        "correta": false,
+        "feedback": "Perigoso! Golpistas no mundo físico costumam usar boa aparência e simpatia para trocar cartões ou espiar senhas."
+      },
+      {
+        "opcao": "B",
+        "texto": "Entregar o cartão para ela e ficar olhando de longe.",
+        "correta": false,
+        "feedback": "Nunca perca seu cartão de vista e jamais o entregue na mão de estranhos."
+      },
+      {
+        "opcao": "C",
+        "texto": "Recusar educadamente e pedir ajuda apenas para um funcionário oficial do banco, que esteja usando o uniforme e crachá dentro da agência.",
+        "correta": true,
+        "feedback": "Exatamente! No banco, o suporte deve vir exclusivamente de profissionais identificados que trabalham lá."
+      },
+      {
+        "opcao": "D",
+        "texto": "Deixar a pessoa mexer na máquina enquanto você digita a senha.",
+        "correta": false,
+        "feedback": "Mesmo digitando a senha sozinho, a pessoa pode ver o que você digitou ou manipular o valor da operação na tela."
+      }
     ]
   },
   {
@@ -84,10 +204,30 @@
     "resposta_correta": "C",
     "pergunta": "Um amigo da sua rede social envia uma mensagem dizendo que está participando de uma ação de caridade e precisa que você faça um Pix para uma conta com o nome de outra pessoa. Como agir?",
     "alternativas": [
-      { "opcao": "A", "texto": "Fazer o Pix imediatamente para ajudar quem precisa.", "correta": false, "feedback": "O desejo de ajudar é nobre, mas contas em nomes de terceiros desconhecidos são indícios fortes de contas laranjas em golpes." },
-      { "opcao": "B", "texto": "Pedir para ele enviar fotos dos documentos da caridade por mensagem.", "correta": false, "feedback": "Documentos digitais podem ser facilmente falsificados na internet. Não confie apenas nisso." },
-      { "opcao": "C", "texto": "Fazer uma ligação de voz ou vídeo para esse amigo fora da rede social para confirmar se é ele mesmo quem está escrevendo.", "correta": true, "feedback": "Excelente escolha! Ligar diretamente quebra o disfarce de qualquer golpista que tenha clonado ou invadido o perfil do seu amigo." },
-      { "opcao": "D", "texto": "Mandar um áudio na conversa perguntando se é seguro.", "correta": false, "feedback": "Se o perfil foi invadido, o próprio criminoso vai responder digitando que é seguro." }
+      {
+        "opcao": "A",
+        "texto": "Fazer o Pix imediatamente para ajudar quem precisa.",
+        "correta": false,
+        "feedback": "O desejo de ajudar é nobre, mas contas em nomes de terceiros desconhecidos são indícios fortes de contas laranjas em golpes."
+      },
+      {
+        "opcao": "B",
+        "texto": "Pedir para ele enviar fotos dos documentos da caridade por mensagem.",
+        "correta": false,
+        "feedback": "Documentos digitais podem ser facilmente falsificados na internet. Não confie apenas nisso."
+      },
+      {
+        "opcao": "C",
+        "texto": "Fazer uma ligação de voz ou vídeo para esse amigo fora da rede social para confirmar se é ele mesmo quem está escrevendo.",
+        "correta": true,
+        "feedback": "Excelente escolha! Ligar diretamente quebra o disfarce de qualquer golpista que tenha clonado ou invadido o perfil do seu amigo."
+      },
+      {
+        "opcao": "D",
+        "texto": "Mandar um áudio na conversa perguntando se é seguro.",
+        "correta": false,
+        "feedback": "Se o perfil foi invadido, o próprio criminoso vai responder digitando que é seguro."
+      }
     ]
   },
   {
@@ -97,10 +237,30 @@
     "resposta_correta": "B",
     "pergunta": "Sobre o compartilhamento de fotos nas suas redes sociais, qual das condutas abaixo ajuda a manter a sua rotina mais protegida?",
     "alternativas": [
-      { "opcao": "A", "texto": "Postar fotos em tempo real mostrando o restaurante onde você almoça todos os dias.", "correta": false, "feedback": "Mostrar sua rotina exata e horários facilita o monitoramento por pessoas mal-intencionadas." },
-      { "opcao": "B", "texto": "Evitar postar imagens que revelem o número da sua casa, placas de carros ou documentos pessoais.", "correta": true, "feedback": "Perfeito! Manter dados de localização e documentos fora da internet evita golpes patrimoniais e falsificações." },
-      { "opcao": "C", "texto": "Publicar fotos de cartões de embarque com o código de barras visível quando for viajar.", "correta": false, "feedback": "Códigos de barras de passagens contêm dados pessoais completos que podem ser roubados através da imagem." },
-      { "opcao": "D", "texto": "Aceitar convites de amizade de qualquer pessoa para ter mais curtidas nas fotos da família.", "correta": false, "feedback": "Nem todo mundo na internet tem boas intenções. Mantenha seu perfil restrito a quem você realmente conhece." }
+      {
+        "opcao": "A",
+        "texto": "Postar fotos em tempo real mostrando o restaurante onde você almoça todos os dias.",
+        "correta": false,
+        "feedback": "Mostrar sua rotina exata e horários facilita o monitoramento por pessoas mal-intencionadas."
+      },
+      {
+        "opcao": "B",
+        "texto": "Evitar postar imagens que revelem o número da sua casa, placas de carros ou documentos pessoais.",
+        "correta": true,
+        "feedback": "Perfeito! Manter dados de localização e documentos fora da internet evita golpes patrimoniais e falsificações."
+      },
+      {
+        "opcao": "C",
+        "texto": "Publicar fotos de cartões de embarque com o código de barras visível quando for viajar.",
+        "correta": false,
+        "feedback": "Códigos de barras de passagens contêm dados pessoais completos que podem ser roubados através da imagem."
+      },
+      {
+        "opcao": "D",
+        "texto": "Aceitar convites de amizade de qualquer pessoa para ter mais curtidas nas fotos da família.",
+        "correta": false,
+        "feedback": "Nem todo mundo na internet tem boas intenções. Mantenha seu perfil restrito a quem você realmente conhece."
+      }
     ]
   },
   {
@@ -110,10 +270,30 @@
     "resposta_correta": "A",
     "pergunta": "Você recebe um e-mail avisando sobre uma herança inesperada de um parente distante. Para receber, você precisa clicar em um botão verde grande escrito 'RECEBER MEU DINHEIRO'. O que fazer?",
     "alternativas": [
-      { "opcao": "A", "texto": "Apagar o e-mail. Histórias mirabolantes de dinheiro fácil na internet são sempre iscas para roubo de dados.", "correta": true, "feedback": "Sensacional! Dinheiro fácil ou heranças surpresas não acontecem por e-mail. Você agiu com muita sabedoria." },
-      { "opcao": "B", "texto": "Clicar para ver os documentos da herança, por curiosidade.", "correta": false, "feedback": "A curiosidade é perigosa! Apenas o clique pode instalar vírus espiões no seu computador." },
-      { "opcao": "C", "texto": "Responder o e-mail perguntando de qual parente se trata.", "correta": false, "feedback": "Não responda. Interagir com e-mails falsos mostra aos criminosos que sua conta está ativa e você receberá mais spans." },
-      { "opcao": "D", "texto": "Encaminhar para o banco para ver se eles aceitam o depósito.", "correta": false, "feedback": "O banco não tem como checar a origem de um e-mail falso. O melhor é deletar direto." }
+      {
+        "opcao": "A",
+        "texto": "Apagar o e-mail. Histórias mirabolantes de dinheiro fácil na internet são sempre iscas para roubo de dados.",
+        "correta": true,
+        "feedback": "Sensacional! Dinheiro fácil ou heranças surpresas não acontecem por e-mail. Você agiu com muita sabedoria."
+      },
+      {
+        "opcao": "B",
+        "texto": "Clicar para ver os documentos da herança, por curiosidade.",
+        "correta": false,
+        "feedback": "A curiosidade é perigosa! Apenas o clique pode instalar vírus espiões no seu computador."
+      },
+      {
+        "opcao": "C",
+        "texto": "Responder o e-mail perguntando de qual parente se trata.",
+        "correta": false,
+        "feedback": "Não responda. Interagir com e-mails falsos mostra aos criminosos que sua conta está ativa e você receberá mais spans."
+      },
+      {
+        "opcao": "D",
+        "texto": "Encaminhar para o banco para ver se eles aceitam o depósito.",
+        "correta": false,
+        "feedback": "O banco não tem como checar a origem de um e-mail falso. O melhor é deletar direto."
+      }
     ]
   },
   {
@@ -123,10 +303,30 @@
     "resposta_correta": "D",
     "pergunta": "Qual deve ser a sua principal regra de ouro ao navegar na internet para garantir que você nunca seja enganado por engenharia social?",
     "alternativas": [
-      { "opcao": "A", "texto": "Confiar em mensagens que venham com logotipos bonitos e carimbos oficiais.", "correta": false, "feedback": "Logos e carimbos são facilmente copiados da internet. Eles não provam autenticidade sozinhos." },
-      { "opcao": "B", "texto": "Fazer transferências financeiras sempre que alguém parecer muito desesperado na linha.", "correta": false, "feedback": "O desespero artificial é criado para fazer você agir pelo coração e esquecer a segurança. Cuidado!" },
-      { "opcao": "C", "texto": "Navegar apenas de madrugada, quando há menos pessoas conectadas.", "correta": false, "feedback": "Os golpes acontecem 24 horas por dia. O horário não muda a segurança do sistema." },
-      { "opcao": "D", "texto": "Duvidar de pedidos urgentes de dinheiro ou dados, respirar fundo e validar a informação por fora, sem pressa.", "correta": true, "feedback": "Parabéns! Você concluiu com chave de ouro. O tempo e a calma são os seus maiores escudos de proteção digital!" }
+      {
+        "opcao": "A",
+        "texto": "Confiar em mensagens que venham com logotipos bonitos e carimbos oficiais.",
+        "correta": false,
+        "feedback": "Logos e carimbos são facilmente copiados da internet. Eles não provam autenticidade sozinhos."
+      },
+      {
+        "opcao": "B",
+        "texto": "Fazer transferências financeiras sempre que alguém parecer muito desesperado na linha.",
+        "correta": false,
+        "feedback": "O desespero artificial é criado para fazer você agir pelo coração e esquecer a segurança. Cuidado!"
+      },
+      {
+        "opcao": "C",
+        "texto": "Navegar apenas de madrugada, quando há menos pessoas conectadas.",
+        "correta": false,
+        "feedback": "Os golpes acontecem 24 horas por dia. O horário não muda a segurança do sistema."
+      },
+      {
+        "opcao": "D",
+        "texto": "Duvidar de pedidos urgentes de dinheiro ou dados, respirar fundo e validar a informação por fora, sem pressa.",
+        "correta": true,
+        "feedback": "Parabéns! Você concluiu com chave de ouro. O tempo e a calma são os seus maiores escudos de proteção digital!"
+      }
     ]
   }
 ]

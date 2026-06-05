@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "categoria": "Cuidado com o link",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Você recebeu um e-mail dizendo que sua conta de luz está atrasada e tem um link para 'baixar o boleto'. Como você deve agir?",
+    "alternativas": [
+      {
+        "opcao": "A",
+        "texto": "Clico no link e baixo o arquivo para pagar logo.",
+        "correta": false,
+        "feedback": "Cuidado! Boletos falsos enviados por e-mail são usados para instalar vírus ou desviar seu dinheiro."
+      },
+      {
+        "opcao": "B",
+        "texto": "Ignoro o e-mail e procuro o boleto no site oficial da empresa de energia ou no meu aplicativo do banco.",
+        "correta": true,
+        "feedback": "Excelente! Buscar a informação direto na fonte oficial é a maneira mais segura de evitar golpes."
+      },
+      {
+        "opcao": "C",
+        "texto": "Respondo o e-mail pedindo para enviarem pelo WhatsApp.",
+        "correta": false,
+        "feedback": "Não interaja! Ao responder, você confirma que seu e-mail é real e passará a receber ainda mais mensagens falsas."
+      },
+      {
+        "opcao": "D",
+        "texto": "Clico para ver se o valor da conta está correto.",
+        "correta": false,
+        "feedback": "Perigoso! O simples clique pode abrir portas para criminosos no seu computador ou celular."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "categoria": "Quem esta ligando",
+    "pontos": 20,
+    "resposta_correta": "C",
+    "pergunta": "Alguém liga dizendo que é do 'Suporte Técnico' e afirma que seu celular está com vírus, pedindo para você instalar um aplicativo de ajuda. O que você faz?",
+    "alternativas": [
+      {
+        "opcao": "A",
+        "texto": "Instalo o aplicativo para limpar o vírus rapidamente.",
+        "correta": false,
+        "feedback": "Atenção! Esses aplicativos permitem que o golpista mexa no seu celular à distância e veja suas senhas."
+      },
+      {
+        "opcao": "B",
+        "texto": "Passo meus dados para ele conferir se eu sou o dono do aparelho.",
+        "correta": false,
+        "feedback": "Nunca passe dados por telefone para quem te ligou. Empresas reais não pedem dados sensíveis assim."
+      },
+      {
+        "opcao": "C",
+        "texto": "Desligo o telefone. Sei que empresas de tecnologia não ligam do nada avisando sobre vírus.",
+        "correta": true,
+        "feedback": "Perfeito! Essa é uma tática comum para invadir aparelhos. Desligar é a melhor proteção."
+      },
+      {
+        "opcao": "D",
+        "texto": "Peço para ele falar com meu neto que entende mais de celular.",
+        "correta": false,
+        "feedback": "O melhor é nem dar corda. Desligue imediatamente para evitar que tentem convencer seu familiar também."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "categoria": "Proteja seu dinheiro",
+    "pontos": 20,
+    "resposta_correta": "B",
+    "pergunta": "Na hora de fazer um Pix para um conhecido, qual é o passo mais importante antes de digitar a sua senha?",
+    "alternativas": [
+      {
+        "opcao": "A",
+        "texto": "Verificar se o valor está com o símbolo do Real (R$).",
+        "correta": false,
+        "feedback": "Isso é importante, mas não é o principal para evitar enviar dinheiro para a pessoa errada."
+      },
+      {
+        "opcao": "B",
+        "texto": "Conferir com muita calma se o nome que aparece na tela de confirmação é realmente da pessoa certa.",
+        "correta": true,
+        "feedback": "Isso mesmo! Verificar o nome do recebedor evita que você caia no golpe da conta clonada ou do número errado."
+      },
+      {
+        "opcao": "C",
+        "texto": "Fazer o Pix o mais rápido possível para o banco não cancelar.",
+        "correta": false,
+        "feedback": "A pressa é inimiga da segurança. Bancos não cancelam operações por demora na digitação."
+      },
+      {
+        "opcao": "D",
+        "texto": "Tirar um print da tela antes de começar.",
+        "correta": false,
+        "feedback": "O print ajuda depois, mas conferir os dados antes de confirmar é o que realmente protege seu dinheiro."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "categoria": "Redes sociais e senhas",
+    "pontos": 20,
+    "resposta_correta": "D",
+    "pergunta": "Sobre o uso de senhas na internet, qual é a prática recomendada para sua segurança?",
+    "alternativas": [
+      {
+        "opcao": "A",
+        "texto": "Usar a mesma senha para o e-mail, Facebook e banco para não esquecer.",
+        "correta": false,
+        "feedback": "Arriscado! Se um golpista descobrir essa senha, ele terá acesso a toda a sua vida digital de uma vez."
+      },
+      {
+        "opcao": "B",
+        "texto": "Anotar a senha em um post-it e colar na lateral do computador.",
+        "correta": false,
+        "feedback": "Muito exposto! Qualquer pessoa que passar perto do seu computador poderá ver sua senha."
+      },
+      {
+        "opcao": "C",
+        "texto": "Usar o nome do seu animal de estimação como senha.",
+        "correta": false,
+        "feedback": "Senhas com nomes comuns são fáceis de serem descobertas por programas de invasão."
+      },
+      {
+        "opcao": "D",
+        "texto": "Usar senhas diferentes para cada serviço e criá-las misturando letras e números.",
+        "correta": true,
+        "feedback": "Excelente! Senhas exclusivas e variadas garantem que, se um site tiver problema, os outros continuem seguros."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "categoria": "Engenharia social",
+    "pontos": 20,
+    "resposta_correta": "A",
+    "pergunta": "Você recebe uma mensagem de um 'órgão do governo' dizendo que você tem um valor de abono para receber, mas precisa confirmar seu CPF e data de nascimento agora. Como agir?",
+    "alternativas": [
+      {
+        "opcao": "A",
+        "texto": "Não respondo. Sei que o governo não pede dados pessoais por mensagens de WhatsApp ou SMS.",
+        "correta": true,
+        "feedback": "Corretíssimo! Órgãos oficiais utilizam canais formais e nunca pedem dados sensíveis por mensagens instantâneas."
+      },
+      {
+        "opcao": "B",
+        "texto": "Passo os dados rapidamente para garantir o recebimento do dinheiro.",
+        "correta": false,
+        "feedback": "Cuidado! Essa é uma isca clássica para roubar sua identidade e abrir contas falsas no seu nome."
+      },
+      {
+        "opcao": "C",
+        "texto": "Pergunto de onde eles conseguiram meu número.",
+        "correta": false,
+        "feedback": "Não adianta questionar. Eles vão inventar uma mentira convincente. O melhor é ignorar e bloquear."
+      },
+      {
+        "opcao": "D",
+        "texto": "Mando apenas o CPF para ver se eles são reais.",
+        "correta": false,
+        "feedback": "Mesmo apenas o CPF já é uma informação valiosa para criminosos. Não entregue nada!"
+      }
+    ]
+  }
+]
